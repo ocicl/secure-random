@@ -1,0 +1,10 @@
+* secure-random
+
+secure-random provides a cryptographically secure pseudo-random  number generator for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/avodonosov/secure-random.git   |
+| commit  | 0ee99e5  |
+| systems | secure-random |
+|---------+-------------------------------------------|
+
